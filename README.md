@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Maggie
-- 👀 I’m interested in full-stack software engineering and many tech topics
+- 👀 I’m interested in full-stack software engineering and various tech topics and fields
 - 🌱 I’m currently learning intermediate to advanced JS and Python, some of their libraries plus other relevant technologies
 
 
