@@ -1,7 +1,8 @@
-- 👋 Hi, I'm Maggie
+- 👋 Hi, I'm Maggie (short from Margarita)
 - 👀 I’m interested in full-stack software engineering and various tech topics and fields
 - 🌱 I’m currently learning intermediate to advanced JS and Python, some of their libraries plus other relevant technologies
-
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: sopashka@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
